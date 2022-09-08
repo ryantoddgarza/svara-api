@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "name": "svara-api",
+  "version": "0.0.0",
+  "author": "Ryan Todd Garza <ryantoddgarza@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryantoddgarza/svara-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ryantoddgarza/svara-api/issues"
+  },
+  "homepage": "https://github.com/ryantoddgarza/svara-api#readme"
+}
