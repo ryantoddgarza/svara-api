@@ -1,4 +1,4 @@
-set -e
+#!/bin/bash
 
-npm run lint -- --fix
-npm run prettier -- --write
+npm run prettier:fix
+npm run lint:js:fix
