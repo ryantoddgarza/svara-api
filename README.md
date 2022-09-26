@@ -23,6 +23,9 @@ cd svara-api
 
 # Install dependencies
 npm install
+
+# Bootstrap
+npm run bootstrap
 ```
 
 ### Step 2: Configure `env` variables
