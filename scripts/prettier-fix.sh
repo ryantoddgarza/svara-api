@@ -1,3 +1,3 @@
 #!/bin/bash
 
-prettier --write .
+prettier --check --write .
