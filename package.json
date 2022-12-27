@@ -23,7 +23,7 @@
     "prettier:fix": ". ./scripts/prettier-fix.sh"
   },
   "dependencies": {
-    "apollo-server-express": "^3.10.3",
+    "apollo-server-express": "^3.11.1",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "mongoose": "^6.6.5",
