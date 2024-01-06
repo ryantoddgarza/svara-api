@@ -2,7 +2,7 @@ const { gql } = require('apollo-server-express');
 
 const schema = gql`
   type Query {
-    getAllRagas: [Raga]!
+    allRagas: [Raga]!
   }
 
   type Raga {
