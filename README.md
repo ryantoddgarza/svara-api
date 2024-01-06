@@ -22,9 +22,6 @@ git clone https://github.com/ryantoddgarza/svara-api.git
 cd svara-api
 
 # Install dependencies
-npm install
-
-# Bootstrap
 npm run bootstrap
 ```
 
