@@ -35,3 +35,9 @@ npm run bootstrap
 | `APP_PORT`  | The port number for the API server.                              |
 | `MONGO_URI` | The MongoDB Atlas connection string.                             |
 | `NODE_ENV`  | The current Node environment in which the API server is running. |
+
+### Step 3: Run the development server
+
+```shell
+npm run develop
+```
